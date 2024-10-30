@@ -4,5 +4,5 @@ We also implemented a stimulation protocol where we target one random cortical m
 
 ![Description of GIF](Animation.gif)
 
-In the folder SNN-Simulations you can find the code, based on NEST, for the spiking neural network simulation that uses the same connectivity and single cortical module parameters.
+In the folder SNN-Simulations you can find the code, based on [NEST](https://www.nest-simulator.org), for the spiking neural network simulation that uses the same connectivity and single cortical module parameters.
 For any questions you can reach me at gianni.vinci@iss.it
